@@ -1,0 +1,14 @@
+ * {
+    font-family: 'sans-serif';
+    font-size: 18px;
+ }
+
+ h1 {
+    font-size: 32px;
+ }
+
+ img {
+    height: auto;
+    width: 200px;
+    text-align: center;
+ }
